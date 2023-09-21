@@ -28,7 +28,7 @@ I am a Computer Science graduate student with 3.5 years of professional experien
   - *July 2015 - May 2019*
   
 ## 💼 Experience
-- **Software Engineer Intern - Data Driven AI**
+- **Software Engineer Intern - Data Driven Generative AI**
   - *Dell Inc.*
   - *May 2023 - Present*
 
