@@ -18,15 +18,6 @@ I am a Computer Science graduate student with 3.5 years of professional experien
 - Functional Programming 🌟
 - Programming Languages 🚀
 
-## 🎓 Education
-- **Master of Science in Computer Science**
-  - *Arizona State University*
-  - *August 2022 - May 2024*
-
-- **Bachelor of Technology in Computer Engineering**
-  - *SVNIT (NIT, Surat)*
-  - *July 2015 - May 2019*
-
 ## 💼 Experience
 - **Software Engineer Intern - Data Driven AI**
   - *Dell Inc.*
@@ -43,5 +34,14 @@ I am a Computer Science graduate student with 3.5 years of professional experien
 - **Software Engineer Intern**
   - *JP Morgan Chase & Co.*
   - *May 2018 - July 2018*
+
+## 🎓 Education
+- **Master of Science in Computer Science**
+  - *Arizona State University*
+  - *August 2022 - May 2024*
+
+- **Bachelor of Technology in Computer Engineering**
+  - *SVNIT (NIT, Surat)*
+  - *July 2015 - May 2019*
 
 
