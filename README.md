@@ -29,7 +29,7 @@ I am a Computer Science graduate student with 3.5 years of professional experien
   
 ## 💼 Experience
 - **Software Engineer Intern - Data Driven Generative AI**
-  - *Dell Inc.*
+  - *Esri Inc.*
   - *May 2023 - Present*
 
 - **Associate Software Engineer**
