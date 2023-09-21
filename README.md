@@ -1,4 +1,4 @@
-## Greetings, I am Dhrumil Joshi 😄
+## Greetings, I am Dhrumil Joshi 
 I am a Computer Science graduate student with 3.5 years of professional experience. My greatest joy lies:
 
 1) Crafting and implementing intelligent, self-learning software systems that scale seamlessly 
